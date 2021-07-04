@@ -48,8 +48,15 @@ O produto social da nossa sociedade pode ser dividido em três partes:
 3. mais-valia
 
 ```
-Um camponês do período medieval produz três dias de produtos que ele irá entregar para o senhor e três dias que irá trabalhar para ele. Isto não é mais-valia.
+Um camponês do período medieval produz três dias de produtos que ele irá entregar para o senhor
+e três dias que irá trabalhar para ele. Isto não é mais-valia.
 A mais-valia é a forma social específica do capitalismo sobre a qual o subproduto do trabalho é extraído
-(Os dois se encontram como indivíduos livres, o trabalhador vende a sua força de trabalho por dinheiro, com isto se produzem mercadorias que o
-capitalista irá vender no mercado e irá realizar uma quantidade de valor maior do que a que ele pagou para o trabalhador e pelos meios de produção).
+(Os dois se encontram como indivíduos livres, o trabalhador vende a sua força de trabalho por dinheiro,
+com isto se produzem mercadorias que o
+capitalista irá vender no mercado e irá realizar uma quantidade de valor maior do que a que ele pagou
+para o trabalhador e pelos meios de produção).
+
+Até mesmo na idade da pedra existiu trabalho excedente,
+o homem das cavernas precisou manter uma reserva para ter
+oque comer enquanto estava caçando...
 ```
