@@ -110,3 +110,32 @@ do processo capitalista de produção
 A relação reproduz o capitalista como capitalista e o trabalhador como trabalhador. Pois, a reprodução do Capital reafirma esses aspectos. Reproduz os meios de produção como propriedade do capitalista e reproduz o trabalhador como possuidor de seu fundo de consumo para sua sobrevivência.
 
 Assim, ao reproduzir a si mesmo, isto é, o capitalista como capitalista e o trabalhador como trabalhador; a origem, o fundamento e a gênese do modo de produção capitalista não se encontra no interior de sua lógica interna. Encontra-se fora dela. Como pressupostos  históricos que fez do capitalista proprietário de todos os meios de produção e do trabalhador como não proprietário dos meios necessários para se produzir.
+
+### O trabalhador também é proprietário
+
+O trabalhador não é proprietário de nada. Ele não é proprietário dos meios que produzem as mercadorias que consome. O salário garante ao trabalhador a posse temporária dos meios de consumo. Ele deve voltar a vender a força de trabalho, para se apropriar desses meios de consumo novamente. A propriedade do capital é o vínculo permanente com um valor que se valoriza. O trabalhador se apropria de valores que são consumidos.
+
+As pessoas acham que são proprietárias porque tem meios de consumo. Estes perecem. O único valor que se valoriza é o Capital.
+
+### O consumo do operário é improdutivo
+
+Até a sua casa é propriedade do capitalista em certo sentido, pois esta está garantindo que você sobreviva para continuar produzindo o capital para o capitalista.
+Da mesma forma que a maquinaria precisa ser reabastecida, lubrificada e passar por manutenção, o trabalhador precisa renovar as suas energias: "meios de consumo são, então, simples meios de um meio de produção, e seu consumo individual é consumo imediatamente improdutivo".
+
+```
+O consumo individual do trabalhador é improdutivo _para ele mesmo_, posto que
+apenas reproduz o indivíduo necessitado, e é _produtivo para o capitalista_ e para o Estado,
+pois é produção da força produtora de riqueza alheia
+```
+
+**A diferença entre o trabalhador e o escravo é meramente formal**
+
+### O operário é livre
+
+Do ponto de vista social, a classe trabalhadora, mesmo à margem do processo imediato de trabalho, é um acessório do capital tanto quanto o é o instrumento morto de trabalho.
+
+Mesmo seu consumo individual, _dentro de certos limites_, não é mais do que um momento do processo de reprodução do capital.
+
+**Por que dentro de certos limites?**
+
+A primeira força histórica a criar a possibilidade de converter o trabalhador numa força não apenas econômica mas, sobretudo, numa força subjetiva e consciente da história, foi a circunstância do capital ter criado pela primeira vez na história uma classe trabalhadora que não fosse um simples instrumento animado da produção, mas um instrumento de produção autoconsciente, um instrumento de produção que não fosse apenas sujeito insconsciente da história, como tem sido a história até aqui, mas um sujeito capaz de tomar consciência de sua natureza abstrata e subjetiva
