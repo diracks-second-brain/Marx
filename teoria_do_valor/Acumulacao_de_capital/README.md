@@ -25,4 +25,10 @@ exposição de Marx. O processo inteiro que configura o modo de produção capit
 - Pressupostos que precisam uma e outra vez mais serem repostos, pré-condições que se convertem em resultados para uma vez mais atuar como pré-condição na repetição do processo inteiro.
 - Aquilo que é causa, converte-se em efeito e o efeito em causa. Causa e efeito convertem-se em meros momentos que se alternam no interior de um processo puramente social.
 
-#
+Assim, as categorias do Capital não são criações da mente de Marx, mas sim relações que se repetem sempre.
+
+# Reprodução simples
+
+Assume-se que toda mais-valia do capital é consumida sobre a forma de renda. A mais-valia não é capitalizada, acumulada, mas gasta no consumo privado e pessoal do capitalista: _é consumida improdutivamente_.
+
+[Exemplo Reprodução simples do Capital](https://github.com/diracks-second-brain/Marx/blob/master/teoria_do_valor/Mais_valia/README.md#oque-significa-deixe-o-dinheiro-trabalhar-por-voc%C3%AA-)
