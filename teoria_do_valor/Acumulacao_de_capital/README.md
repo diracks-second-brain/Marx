@@ -32,3 +32,24 @@ Assim, as categorias do Capital não são criações da mente de Marx, mas sim r
 Assume-se que toda mais-valia do capital é consumida sobre a forma de renda. A mais-valia não é capitalizada, acumulada, mas gasta no consumo privado e pessoal do capitalista: _é consumida improdutivamente_.
 
 [Exemplo Reprodução simples do Capital](https://github.com/diracks-second-brain/Marx/blob/master/teoria_do_valor/Mais_valia/README.md#oque-significa-deixe-o-dinheiro-trabalhar-por-voc%C3%AA-)
+
+O produto social da nossa sociedade pode ser dividido em três partes:
+
+### Do ponto de vista do valor de uso
+
+1. Fundo de manutenção da produção (aquilo que precisamos para produzir, máquinas, insumos, etc.)
+2. Fundo de consumo dos operários (salários necessários para subsistência da força de trabalho)
+3. Sobrepoduto social
+
+### Do ponto de vista do valor
+
+1. Capital constante
+2. Capital variável
+3. mais-valia
+
+```
+Um camponês do período medieval produz três dias de produtos que ele irá entregar para o senhor e três dias que irá trabalhar para ele. Isto não é mais-valia.
+A mais-valia é a forma social específica do capitalismo sobre a qual o subproduto do trabalho é extraído
+(Os dois se encontram como indivíduos livres, o trabalhador vende a sua força de trabalho por dinheiro, com isto se produzem mercadorias que o
+capitalista irá vender no mercado e irá realizar uma quantidade de valor maior do que a que ele pagou para o trabalhador e pelos meios de produção).
+```
