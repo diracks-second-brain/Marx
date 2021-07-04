@@ -12,7 +12,7 @@ Capital constante: | 60mi gasto em meios de produção |
 Capital variável | 40mi gasto em salários |
 Mais-valia | 20mi em mais-valia |
 
-O capital nunca é gasto! Mas sim os salários!
+O capital nunca é gasto! Mas sim os salários! Quando o capitalista investe, o Capital apenas muda de forma, antes na forma de dinheiro e agora na forma dos elementos de produção. Já os salários são consumidos pelo trabalhador ao comprar as mercadorias que precisa para a sua sobrevivência.
 
 120mi | Receita |
 --- | --- |
