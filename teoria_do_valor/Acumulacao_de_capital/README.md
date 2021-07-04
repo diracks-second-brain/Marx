@@ -79,3 +79,11 @@ A forma mercadoria do produto e a forma dinheiro da mercadoria
 disfarçam a transação [...] Oque o patrão adianta é um valor
 criado pelo trabalhador
 ```
+
+### Salário é o pagamento pelo trabalho
+
+O caso do servo que trabalha 3 dias para o seu sustento e 3 para o senhor "reproduzir continuamente seu próprio fundo de trabalho,
+e este jamais assume em relação a ele a forma de meios de pagamentos adiantados por um terceiro para remunerar seu trabalho.
+Em compensação, seu trabalho forçado não pago jamais assume a forma de trabalho voluntário e pago".
+
+Salário do trabalhador paga não o seu trabalho, mas sua sobrevivência, sua manutenção, seu fundo de consumo. Parece que ele é pago por seu trabalho inteiro.
