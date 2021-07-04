@@ -98,3 +98,13 @@ continua a existir
 ```
 
 **Desta aparência vem o [deixe o dinheiro trabalhar por você](https://github.com/diracks-second-brain/Marx/blob/master/teoria_do_valor/Mais_valia/README.md#oque-significa-deixe-o-dinheiro-trabalhar-por-voc%C3%AA-).**
+
+### Ser trabalhador ou capitalista é mera escolha individual. Algo ao acaso
+
+```
+A separação entre o produto do trabalho e o próprio trabalho,
+entre as condições objetiva-se a força subjetiva de trabalho, era, portanto, a base efetivamente dada, o ponto de partida
+do processo capitalista de produção
+```
+
+A relação reproduz o capitalista como capitalista e o trabalhador como trabalhador. Pois, a reprodução do Capital reafirma esses aspectos. Reproduz os meios de produção como propriedade do capitalista e reproduz o trabalhador como possuidor de seu fundo de consumo para sua sobrevivência.
