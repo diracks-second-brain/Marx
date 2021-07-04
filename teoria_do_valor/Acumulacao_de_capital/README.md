@@ -60,3 +60,22 @@ Até mesmo na idade da pedra existiu trabalho excedente,
 o homem das cavernas precisou manter uma reserva para ter
 oque comer enquanto estava caçando...
 ```
+
+# Aparências
+
+### Salários como custo de produção
+
+O Capitalista paga o trabalhador com  a riqueza produzida pelo próprio trabalhador.
+
+```
+Oque reflui continuamente para o trabalhador na forma salário é uma
+parte do produto continuamente reproduzido por ele mesmo. É
+com o seu trabalho da semana anterior ou do último semestre que
+será pago seu trabalho de hoje ou do próximo semestre
+```
+
+```
+A forma mercadoria do produto e a forma dinheiro da mercadoria
+disfarçam a transação [...] Oque o patrão adianta é um valor
+criado pelo trabalhador
+```
