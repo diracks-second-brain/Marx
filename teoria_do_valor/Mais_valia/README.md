@@ -2,7 +2,7 @@
 
 Mais-valia é a forma social sob a qual o subproduto do trabalho (trabalho excedente) é extraído.
 
-# "Deixe o dinheiro trabalhar por você!"
+# Oque significa "Deixe o dinheiro trabalhar por você" ?
 
 * Empresa de canecas:
 
