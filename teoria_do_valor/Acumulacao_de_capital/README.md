@@ -87,3 +87,14 @@ e este jamais assume em relação a ele a forma de meios de pagamentos adiantado
 Em compensação, seu trabalho forçado não pago jamais assume a forma de trabalho voluntário e pago".
 
 Salário do trabalhador paga não o seu trabalho, mas sua sobrevivência, sua manutenção, seu fundo de consumo. Parece que ele é pago por seu trabalho inteiro.
+
+### Mais-valia foi produzida pelo capital adiantado pelo capitalista
+
+```
+Transcorrido certo número de anos, o valor do capital que ele possui é igual à quantia
+de mais-valor apropriada sem equivalente durante esses mesmos anos, e a quantia de valor consumido por
+ele é igual ao valor do capital original... Nem um átomo de valor de seu antigo capital
+continua a existir
+```
+
+**Desta aparência vem o [deixe o dinheiro trabalhar por você](https://github.com/diracks-second-brain/Marx/blob/master/teoria_do_valor/Mais_valia/README.md#oque-significa-deixe-o-dinheiro-trabalhar-por-voc%C3%AA-).**
