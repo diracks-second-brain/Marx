@@ -108,3 +108,5 @@ do processo capitalista de produção
 ```
 
 A relação reproduz o capitalista como capitalista e o trabalhador como trabalhador. Pois, a reprodução do Capital reafirma esses aspectos. Reproduz os meios de produção como propriedade do capitalista e reproduz o trabalhador como possuidor de seu fundo de consumo para sua sobrevivência.
+
+Assim, ao reproduzir a si mesmo, isto é, o capitalista como capitalista e o trabalhador como trabalhador; a origem, o fundamento e a gênese do modo de produção capitalista não se encontra no interior de sua lógica interna. Encontra-se fora dela. Como pressupostos  históricos que fez do capitalista proprietário de todos os meios de produção e do trabalhador como não proprietário dos meios necessários para se produzir.
