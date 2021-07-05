@@ -1,6 +1,8 @@
 # Meus comentários sobre os equívocos do Kim Kataguiri sobre Marx no podcast Inteligência Ltda
 
-[Vídeo original](https://www.youtube.com/watch?v=eT4NsrDwqIU&lc=z22otfmrzryvjnvm3acdp435ruhyfl5txvmxyoghxp5w03c010c.1618855089356051)
+[Vídeo original Kim Kataguiri](https://www.youtube.com/watch?v=eT4NsrDwqIU&lc=z22otfmrzryvjnvm3acdp435ruhyfl5txvmxyoghxp5w03c010c.1618855089356051)
+
+[Resposta do Orientação Marxista](https://www.youtube.com/watch?v=QRt6cpwdYF0)
 
 :arrow_right: Rodolfo Dirack
 
