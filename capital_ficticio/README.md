@@ -1,3 +1,5 @@
+# Capital Fictício em Marx
+
 
 ## Comentários do vídeo DESTRUINDO falácias do Orientação Marxista - Ft. Henrido
 
@@ -5,13 +7,35 @@
 
 ### Meus comentários
 
-26:36 O Henrido finalmente entendeu Marx e disse que faz sentido! Sim, a moeda espelha os valores das mercadorias, pois ela é a forma equivalente cujo valor de uso é expressar o valor de todas as coisas no mercado. Já que a mercadoria é valor de uso (serve para atender uma necessidade humana) e valor (é feita para ser trocada no mercado), mas o valor não se mostra na mercadoria, está sempre espelhado em outra mercadoria, o dinheiro surge como necessário na sociedade capitalista. O Bitcoin não cumpre este papel, pois não é um equivalente universal e meio de troca amplamente aceito: Vc terá de trocar os seus BTC por reais para pagar seus funcionários, fornecedores, comprar produtos e etc, e pricipalmente, para pagar os seus impostos. Talvez no futuro isto seja possível, oque não muda o fato de que hoje não o é
+26:36 O Henrido finalmente entendeu Marx e disse que faz sentido!
+Sim, a moeda espelha os valores das mercadorias, pois ela é a forma equivalente cujo valor de uso é expressar
+o valor de todas as coisas no mercado. Já que a mercadoria é valor de uso (serve para atender uma necessidade humana)
+e valor (é feita para ser trocada no mercado), mas o valor não se mostra na mercadoria, está sempre espelhado em outra
+mercadoria, o dinheiro surge como necessário na sociedade capitalista. O Bitcoin não cumpre este papel,
+pois não é um equivalente universal e meio de troca amplamente aceito: Vc terá de trocar os seus BTC por
+reais para pagar seus funcionários, fornecedores, comprar produtos e etc, e pricipalmente, para pagar os seus impostos.
+Talvez no futuro isto seja possível, oque não muda o fato de que hoje não o é
 
-30:38 @AnarcoJack É muito triste quando vc não consegue entender uma teoria e se resume a construir espantalhos. Porque vc não faz o curso do Gustavo sobre o Capital de Marx? "Cartão de débito não refuta a teoria dele"? Oi!? O saldo do cartão de débito, ou do cartão de crédito e as mercadorias pagas com eles não são em reais? Não é o real a forma equivalente que expressa o valor das mercadorias, os saldos e limites dos cartões de crédito?
+30:38 @AnarcoJack É muito triste quando vc não consegue entender uma teoria e se resume a construir espantalhos.
+Porque vc não faz o curso do Gustavo sobre o Capital de Marx? "Cartão de débito não refuta a teoria dele"? Oi!?
+O saldo do cartão de débito, ou do cartão de crédito e as mercadorias pagas com eles não são em reais?
+Não é o real a forma equivalente que expressa o valor das mercadorias, os saldos e limites dos cartões de crédito?
 
-38:45 @ AnarcoJack o teu argumento não faz sentido: Vc diz que foi o sacrifício das gerações anteriores, trabalhando de domingo a domingo, foi oque produziu o padrão de vida que temos hoje e que nos permite folgar aos domingos. Qualquer um que já sofreu um Burnout sabe que a folga desempenha um papel importante na produtividade do trabalhador, na sua qualidade de vida e expectativa de vida. Tu quer me convencer que crianças trabalhando em jornadas de 16hs todos os dias e morrendo bem jovens são mais produtivas que indivíduos adultos trabalhando 8hs, por dia com folga semanal, durante décadas? Fora o problema moral grave nesta tua afirmação de alguém que se diz anarcocapitalista: Esta tua afirmação é puramente utilitarista! O sacrifício de poucos foi necessário para um bem maior! Quanto deste sacrifício ainda é necessário, AnarcoJack? Qual dos meus familiares eu tenho que sacrificar no altar do Deus mercado para ter o direito de trabalhar home office? kkkkk
+38:45 @ AnarcoJack o teu argumento não faz sentido: Vc diz que foi o sacrifício das gerações anteriores,
+trabalhando de domingo a domingo, foi oque produziu o padrão de vida que temos hoje e que nos permite folgar
+aos domingos. Qualquer um que já sofreu um Burnout sabe que a folga desempenha um papel importante na produtividade
+do trabalhador, na sua qualidade de vida e expectativa de vida. Tu quer me convencer que crianças trabalhando em
+jornadas de 16hs todos os dias e morrendo bem jovens são mais produtivas que indivíduos adultos trabalhando 8hs,
+por dia com folga semanal, durante décadas? Fora o problema moral grave nesta tua afirmação de alguém que se diz
+anarcocapitalista: Esta tua afirmação é puramente utilitarista! O sacrifício de poucos foi necessário para um bem maior!
+Quanto deste sacrifício ainda é necessário, AnarcoJack? Qual dos meus familiares
+eu tenho que sacrificar no altar do Deus mercado para ter o direito de trabalhar home office? kkkkk
 
-33:26 Falácia do espantalho do Henrido: "Quanto que 100R$ está valendo agora[...] super estável esta moeda!". Deu para entender o argumento do Gustavo, não precisa ser desonesto. A volatilidade do BTC comparada ao real e o dólar não é segredo para ninguém, e fica muito difícil utilizar como moeda algo tão volátil. Esta crítica está presente no livro do Fernando Urich sobre Bitcoin, e é um dos problemas que o BTC terá que lidar se quiser se tornar moeda amplamente aceita
+33:26 Falácia do espantalho do Henrido: "Quanto que 100R$ está valendo agora[...] super estável esta moeda!".
+Deu para entender o argumento do Gustavo, não precisa ser desonesto. A volatilidade do BTC comparada ao real
+e o dólar não é segredo para ninguém, e fica muito difícil utilizar como moeda algo tão volátil.
+Esta crítica está presente no livro do Fernando Urich sobre Bitcoin, e é um dos problemas que o
+BTC terá que lidar se quiser se tornar moeda amplamente aceita
 
 ### Resposta ao comentário de Jackson Gotardo
 
