@@ -1,3 +1,8 @@
+
+## Comentários do vídeo DESTRUINDO falácias do Orientação Marxista - Ft. Henrido
+
+[Link](https://www.youtube.com/watch?v=6IkgPZ-zx9Q&t=3015s)
+
 ### Resposta ao comentário de Jackson Gotardo
 
 [link](https://www.youtube.com/watch?v=6IkgPZ-zx9Q&lc=UgwNP2j1eYrDf36pBdJ4AaABAg)
