@@ -1,5 +1,8 @@
 # Capital Fictício em Marx
 
+## DÍVIDA PÚBLICA EXPLICADA | A partir de MARX EP #132
+
+[Link](https://www.youtube.com/watch?v=V0hP3Zdk7bU)
 
 ## Comentários do vídeo DESTRUINDO falácias do Orientação Marxista - Ft. Henrido
 
