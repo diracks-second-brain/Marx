@@ -35,3 +35,32 @@ também diferente, em contradição com a constatação empírica de que dois
 investimentos, independente de sua composição orgânica, devem dar retornos
 proporcionais ao seu tamanho. Como explicar essa realidade sem abandonar a lei do
 valor?
+
+## A conclusão
+
+A conclusão a que se chegou sobre o
+problema da transformação foi a seguinte: o sistema de valores se diferencia do sistema
+de preços de produção, e essa diferença é por causa dos critérios de distribuição da
+mais-valia. No sistema de valores, o critério é o tamanho do capital variável, ou seja, a
+mais-valia está distribuída em proporção à grandeza do trabalho vivo de cada setor. No
+sistema de preços de produção, a soma do capital variável com o constante é o critério
+de distribuição. Qual a relação lógica-matemática entre um sistema e outro? Conforme
+Pasinetti, a transformação pode ser modelada através da multiplicação do sistema de
+valores com uma matriz específica que reorganiza a distribuição da mais-valia de modo
+que surjam os preços de produção e a taxa de lucro proporcional ao tamanho de cada
+capital, independente de sua composição
+
+## A crítica da redundância
+
+Samuelson, evitando repetir o raciocínio de Böhm-Bawerk, altera o eixo de oposição em
+relação aos marxistas ao estabelecer que a teoria do valor trabalho não é contraditória
+nem errada, mas apenas redundante.
+
+O importante a concluir neste artigo é que a crítica à economia marxista mudou
+de “contradição” para “redundância” no desenrolar do debate sobre o problema da
+transformação. Isso indica que a crítica de Böhm-Bawerk falhou oficialmente, visto que
+a contradição entre os sistemas é perfeitamente explicável. Além disso, a mudança do
+caráter da crítica de contradição para redundância implica que a rejeição da teoria
+econômica marxista sempre é uma questão de decisão política e não técnica. Esse
+resultado tem uma importância considerável, porque invalida o argumento
+pretensamente científico de que Marx estaria superado
