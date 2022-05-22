@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=_dxpQpVxz3s&lc=UgyL2cueJq9X8HQ7rZB4AaABAg
 
 https://www.youtube.com/watch?v=_dxpQpVxz3s&lc=UgyL2cueJq9X8HQ7rZB4AaABAg.97UVTaduyv797dfEBF_nI-
 
+https://www.youtube.com/watch?v=_dxpQpVxz3s&lc=UgyL2cueJq9X8HQ7rZB4AaABAg.97UVTaduyv797gWcUV18tA
+
 Valores x Preços: Porque os preços tem a magnitude que tem e não outra? Qual a conexão quantitativa entre valores e preços?
 
 Qual o algoritmo que modela completamente o sistema de valores para o sistema de preços de produção?
