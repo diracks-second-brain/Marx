@@ -1,6 +1,8 @@
 
 # Comentários vídeo de Paulo Kogos
 
+[A mais-valia existe, mas não como Marx pensava](https://www.youtube.com/watch?v=sOgWHt9_azU&t=1204s)
+
 [Eu](https://www.youtube.com/watch?v=sOgWHt9_azU&lc=UgwX2wwKfSbPhXJEjCB4AaABAg)
 
 01:41 Falso. Não existe esta a categoria "Valor absoluto das mercadorias" em Marx
